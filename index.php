@@ -1,6 +1,6 @@
 <?php
 
-// Şifre koruması
+// Şifre
 $password = "12345";
 
 // Kullanıcı girişi
