@@ -1,1 +1,1 @@
-
+Php kodlarıyla bir web sitesi tasarladım ve bu web sitesinde dosya yükleme kısmında “phtml, php, php3, php5, inc” dosyalarının yüklenmesini engelliyor fakat php4 dosya tipinin yüklenmesine izin vermektedir. Sisteme yüklenen “php4” uzantılı dosya’nın sisteme yüklendikten sonra dosya uzantısı “php” diye değişmektedir. Bu yüzden url’den dosyayı çağırırken “php4” dosya uzantısını yazmak yerine “php” dosya uzantısını yazmak gerekir.
